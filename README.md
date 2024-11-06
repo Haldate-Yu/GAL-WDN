@@ -2,7 +2,7 @@
 Implementation for ICIOT'24 paper: Node Pressure Prediction by Aggregating Long-Range Information
 
 ## Overview
-![overview](./imgs/architecture.pdf)
+![overview](./img/architecture.jpg)
 Predicting node pressure accurately is of paramount importance for the management of water distribution networks (WDNs).
 Recent advances have highlighted the efficacy of graph neural networks(GNNs), tailored for data with inherent graph structures, 
 in addressing this challenge. However, the performance of extant GNN-based approaches is constrained by their limited 
